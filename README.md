@@ -13,4 +13,4 @@ Database contains two Tables- Users Table & Transaction Table
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
-Made with 🧡 by <a href=linkedin.com/in/saloni-raorane-a24226154> Saloni Raorane</a>
+Made with 🧡 by <a href=linkedin.com/in/saloni-raorane-a24226154> Saloni Raorane </a>
